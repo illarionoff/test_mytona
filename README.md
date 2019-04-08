@@ -6,7 +6,7 @@
 
 1. Install <a href="https://nodejs.org" target="_blank">Node.js</a>
 2. `git clone https://github.com/illarionoff/mytona_test.git`
-3. `cd mytona_test`
+3. `cd test_mytona`
 4. `npm install`
 5. `npm run client-install` (or 'cd client' and 'npm install')
 
